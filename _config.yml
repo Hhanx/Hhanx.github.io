@@ -130,3 +130,11 @@ deploy:
   type: ''
 
 
+gitalk:
+  enable: true #是否开启
+  githubID: Hhanx #你的Github用户名
+  repo: Hhanx.github.io #Github仓库名称
+  ClientID: Ov23li02ExeS3q8s57Lm #创建的Application ClientID
+  ClientSecret: 7376b76f9dcc18756a960193be31040bf68c5541 #创建的Application ClientSecret
+  adminUser: Hhanx # 评论初始化账户(GitHub ID)
+  distractionFreeMode: true # 是否开启分心自由模式 也就是免打扰
