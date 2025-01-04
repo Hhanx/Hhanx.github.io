@@ -9,8 +9,8 @@
         }
         const path = container.getAttribute("data-path");
         const gitalk = new Gitalk(Object.assign({
-            id: path, // 直接使用路径作为 id
-            // id: container.getAttribute("data-path-hash"), // 使用 hash 作为 ID
+            //id: path, // 直接使用路径作为 id
+            id: container.getAttribute("data-path-hash"), // 使用 hash 作为 ID
             path: path,
         }, {
           clientID: 'Ov23li02ExeS3q8s57Lm',
