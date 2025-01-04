@@ -15,7 +15,7 @@
         }, {
           clientID: 'Ov23li02ExeS3q8s57Lm',
           clientSecret: '4e55e6bf526ee1ca1a11141bb568e7cce82ecd1b',
-          repo: "hhanx-comment-issues",
+          repo: "boke-Issues",
           owner: "Hhanx",
           admin: ["Hhanx"],
           distractionFreeMode: false,
