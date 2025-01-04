@@ -9,7 +9,6 @@ search:
 
 # 图片配置
 image:
-  cover: "/assets/favicon.png"
   favicon: "/assets/favicon.png" # 站点图标
   avatar: "/assets/logo.jpg" # 个人信息挂件上的头像
   banner:
