@@ -10,9 +10,15 @@ keywords:
 - hexo
 - theme
 - kratos-rebirth
-author: All contributors
+author: Hhanx
 language: zh
 timezone: ''
+
+
+
+
+
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -122,3 +128,5 @@ sitemap:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
