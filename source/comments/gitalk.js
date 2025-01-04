@@ -17,7 +17,7 @@
           clientSecret: '7376b76f9dcc18756a960193be31040bf68c5541',
           repo: "boke-Issues",
           owner: "Hhanx",
-          admin: ["Hhanx"],
+          admin: "Hhanx",
           distractionFreeMode: false,
         }));
   
