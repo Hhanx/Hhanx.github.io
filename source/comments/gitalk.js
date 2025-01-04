@@ -14,7 +14,7 @@
             path: path,
         }, {
           clientID: 'Ov23li02ExeS3q8s57Lm',
-          clientSecret: 'bd76cf2f4bf2313d2ceca3681f85a01cfd61f2b5',
+          clientSecret: '4e55e6bf526ee1ca1a11141bb568e7cce82ecd1b',
           repo: "hhanx-comment-issues",
           owner: "Hhanx",
           admin: ["Hhanx"],
